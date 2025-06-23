@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./customTailwind/main.scss";
+
+@font-face {
+  font-family: "Tajawal";
+  src: url("./Assets/fonts/Tajawal/Tajawal-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Tajawal";
+  src: url("./Assets/fonts/Tajawal/Tajawal-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Tajawal";
+  src: url("./Assets/fonts/Tajawal/Tajawal-Medium.ttf") format("truetype");
+  font-weight: 500;
+}
+
+body {
+  font-family: "Tajawal", sans-serif;
+
+  @apply bg-gray-50 dark:bg-gray-800;
+}
+
+@media print {
+  .no-print,
+  .no-print * {
+    display: none !important;
+  }
+  .printoo {
+    @apply fixed top-0 bottom-0 left-0 right-0 z-50;
+    .just-on-printoo {
+      @apply flex;
+    }
+    .border-on-print {
+      @apply border border-black;
+    }
+  }
+}

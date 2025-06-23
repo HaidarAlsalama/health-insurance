@@ -1,0 +1,35 @@
+.ani1,
+.ani2,
+.ani3,
+.ani4{
+    animation-name: animate;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.ani2{
+    animation-delay: .3s;
+}
+.ani3{
+    animation-delay: .6s;
+}
+.ani4{
+    animation-delay: .9s;
+}
+
+
+
+
+
+
+
+
+
+@keyframes animate{
+    0%{
+        transform: translateY(0px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}

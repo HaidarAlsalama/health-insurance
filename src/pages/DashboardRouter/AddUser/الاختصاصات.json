@@ -1,0 +1,1276 @@
+[
+  {
+    "id": 1,
+    "name": "الهندسة الإنشائية",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 2,
+    "name": "الهندسة المدنية عام",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 3,
+    "name": "هندسة الكهربائية ",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 4,
+    "name": "هندسة المباني",
+    "engineeres": null,
+    "engineeringeDeparId": 3,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 5,
+    "name": "الهندسة البترولية",
+    "engineeres": null,
+    "engineeringeDeparId": 17,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 6,
+    "name": "هندسة الميكانيك العام",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 8,
+    "name": "هندسة تخطيط المدن",
+    "engineeres": null,
+    "engineeringeDeparId": 3,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 9,
+    "name": "هندسة مواد البناء",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 10,
+    "name": "هندسة القوى الميكانيكية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 11,
+    "name": "هندسة العمارة",
+    "engineeres": null,
+    "engineeringeDeparId": 3,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 12,
+    "name": "هندسة الاتصالات السلكية و اللاسلكية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 13,
+    "name": "هندسة الطاقة الكهربائية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 14,
+    "name": "هندسة الآليات",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 15,
+    "name": "هندسة الري و الصرف",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 16,
+    "name": "هندسة المساحة",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 17,
+    "name": "محطات ضخ ونقل البترول والمنتجات البترولية والغاز",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 18,
+    "name": "هندسة المواصلات",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 19,
+    "name": "هندسة آلات كهربائية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 20,
+    "name": "هندسة الالكترونيات و الإتصالات",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 21,
+    "name": "الهندسة الميكانيكية السينمائية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 22,
+    "name": "معدات تكنولوجية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 23,
+    "name": "هندسة علم المعادن",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 24,
+    "name": "هندسة التدفئة والتكييف",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 25,
+    "name": "الهندسة الكيميائية",
+    "engineeres": null,
+    "engineeringeDeparId": 6,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 26,
+    "name": "هندسة موارد مائية",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 27,
+    "name": "هندسة التصميم و الانتاج",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 28,
+    "name": "هندسة تكرير البترول",
+    "engineeres": null,
+    "engineeringeDeparId": 17,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 29,
+    "name": "هندسة المحطات الميكانيكية لتوليد الطاقة",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 30,
+    "name": "هندسة التنقيب عن البترول",
+    "engineeres": null,
+    "engineeringeDeparId": 7,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 31,
+    "name": "هندسة الالكترونيات",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 32,
+    "name": "هندسة تنظيم المدن",
+    "engineeres": null,
+    "engineeringeDeparId": 3,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 33,
+    "name": "هندسة المناجم",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 34,
+    "name": "هندسة النسيج",
+    "engineeres": null,
+    "engineeringeDeparId": 8,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 35,
+    "name": "صناعة البتروكيمياء",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 36,
+    "name": "هندسة التعدين",
+    "engineeres": null,
+    "engineeringeDeparId": 17,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 37,
+    "name": "هندسة تكرر النفط",
+    "engineeres": null,
+    "engineeringeDeparId": 7,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 38,
+    "name": "الهندسة الجيولوجية",
+    "engineeres": null,
+    "engineeringeDeparId": 17,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 39,
+    "name": "هندسة التغذية الكهربائية للمنشآت",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 40,
+    "name": "هندسة الأجهزة الدقيقة",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 41,
+    "name": "هندسة الطيران",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 42,
+    "name": "هندسة التحكم الآلي",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 43,
+    "name": "هندسة المحركات ذات الاحتراق الداخلي",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 44,
+    "name": "هندسة تنظيم و إدارة المشروعات الهندسية",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 45,
+    "name": "هندسة الجيوفيزياء التطبيقية",
+    "engineeres": null,
+    "engineeringeDeparId": 7,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 46,
+    "name": "صناعة حفظ الأغذية",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 47,
+    "name": "هندسة الصناعات الخفيفة",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 48,
+    "name": "الهندسة البحرية وبناء السفن وآلات السفن",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 50,
+    "name": "صناعة العنب والسكر والخمائر",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 51,
+    "name": "الهندسة الاقتصادية",
+    "engineeres": null,
+    "engineeringeDeparId": 10,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 52,
+    "name": "صناعة الألبان ومنتجاتها",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 53,
+    "name": "الهندسة الصناعية",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 54,
+    "name": "هندسة ميكانيك التربة",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 55,
+    "name": "هندسة الآليات الزراعية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 56,
+    "name": "هندسة السينما والأجهزة الصوتية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 57,
+    "name": "الهندسة الإلكترونية العسكرية وهندسة الرادار",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 58,
+    "name": "الهندسة البيئية",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 59,
+    "name": "إدارة وتنظيم المشروعات الهندسية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 60,
+    "name": "هندسة محطات الطاقة الكهربائية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 61,
+    "name": "صناعة الأخشاب",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 62,
+    "name": "هندسة الحاسبات الإلكترونية والمعلوماتية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 64,
+    "name": "هندسة الرادار",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 65,
+    "name": "الهندسة الصحية",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 66,
+    "name": "هندسة الفيزياء التطبيقية",
+    "engineeres": null,
+    "engineeringeDeparId": 11,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 67,
+    "name": "هندسة قدرة",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 68,
+    "name": "هندسة الالكترون",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 69,
+    "name": "الهندسة الطبية",
+    "engineeres": null,
+    "engineeringeDeparId": 12,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 70,
+    "name": "هندسة التصميم الصناعي",
+    "engineeres": null,
+    "engineeringeDeparId": 3,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 71,
+    "name": "الهندسة البحرية العسكرية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 72,
+    "name": "كهربة المنشآت الزراعية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 73,
+    "name": "هندسة قيادة كهربائية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 74,
+    "name": "الهندسة الكيميائية العسكرية",
+    "engineeres": null,
+    "engineeringeDeparId": 6,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 75,
+    "name": "صناعة المواد الدسمة ومنتجاتها",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 76,
+    "name": "صناعة الأسمدة",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 77,
+    "name": "الهندسة الكهربائية العسكرية",
+    "engineeres": null,
+    "engineeringeDeparId": 20,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 78,
+    "name": "صناعة الألبسة الجاهزة",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 79,
+    "name": "هندسة الالكترون ضوئيات",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 80,
+    "name": "هندسة غذائية",
+    "engineeres": null,
+    "engineeringeDeparId": 13,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 82,
+    "name": "هندسة حاسبات",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 83,
+    "name": "هندسة شبكات نقل الطاقة",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 84,
+    "name": "صناعة مواد التصوير",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 85,
+    "name": "هندسة الحاسبات الالكترونية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 86,
+    "name": "هندسة شبكات نقل الطاقة الكهربائية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 87,
+    "name": "هندسة حفر الآبار",
+    "engineeres": null,
+    "engineeringeDeparId": 7,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 88,
+    "name": "الهندسة الميكانيكية العسكرية",
+    "engineeres": null,
+    "engineeringeDeparId": 21,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 89,
+    "name": "هندسة التريكو",
+    "engineeres": null,
+    "engineeringeDeparId": 8,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 90,
+    "name": "كهرباء-طاقة",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 91,
+    "name": "هندسة كهرباء الطيران",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 92,
+    "name": "ميكاترونيك",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 93,
+    "name": "ادارة وتنظيم المشروعات",
+    "engineeres": null,
+    "engineeringeDeparId": 10,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 94,
+    "name": "هندسة نووية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 95,
+    "name": "هندسة نظم وشبكات حاسوبية",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 96,
+    "name": "برمجة ونظم",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 97,
+    "name": "ادارة وتنظيم",
+    "engineeres": null,
+    "engineeringeDeparId": 10,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 98,
+    "name": "تقانة الاغذية",
+    "engineeres": null,
+    "engineeringeDeparId": 16,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 99,
+    "name": "تطوير برمجيات",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 100,
+    "name": "اتمتة صناعية",
+    "engineeres": null,
+    "engineeringeDeparId": 16,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 101,
+    "name": "هندسة الطرق والمواصلات",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 102,
+    "name": "هندسة علم المواد",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 103,
+    "name": "صناعات بتروكيميائية",
+    "engineeres": null,
+    "engineeringeDeparId": 13,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 104,
+    "name": "هندسة آلات غزل",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 105,
+    "name": "تكنولوجيا المنتجات الغذائية",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 106,
+    "name": "الهندسة المعلوماتية",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 107,
+    "name": "هندسة الكيمياء الغذائية",
+    "engineeres": null,
+    "engineeringeDeparId": 13,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 108,
+    "name": "هندسة الري و استصلاح اراضي",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 109,
+    "name": "هندسة تخطيط عمراني",
+    "engineeres": null,
+    "engineeringeDeparId": 3,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 110,
+    "name": "هندسة التقانات الحيوية",
+    "engineeres": null,
+    "engineeringeDeparId": 16,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 111,
+    "name": "هندسة الكيمياء الحيوية",
+    "engineeres": null,
+    "engineeringeDeparId": 6,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 112,
+    "name": "هندسة ادارة اعمال",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 113,
+    "name": "هندسة الكترون عسكري",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 114,
+    "name": "هندسة تسليح مدني",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 115,
+    "name": "هندسة تقانة البيئة",
+    "engineeres": null,
+    "engineeringeDeparId": 16,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 116,
+    "name": "هندسة ميكانيك عسكري عربات",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 117,
+    "name": "هندسة الطاقة الميكانيكية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 118,
+    "name": "هندسة كهرباءعسكرية اشارة",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 119,
+    "name": "هندسة عسكرية اليات",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 120,
+    "name": "هندسة تحكم الي واتمتة صناعية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 121,
+    "name": "هندسة علم المواد الهندسية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 122,
+    "name": "هندسة التطبيقات",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 123,
+    "name": "هندسة ميكانيك طيران",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 124,
+    "name": "ميكانيك عام",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 125,
+    "name": "هندسة سلكية ولاسلكية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 126,
+    "name": "هندسة المواد الهندسية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 127,
+    "name": "هندسة الشبكات ونظم الحواسيب",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 128,
+    "name": "هندسة الاتصالات السلكية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 129,
+    "name": "هندسة صناعة الطباعة",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 130,
+    "name": "هندسة برمجيات ونظم المعلومات",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 131,
+    "name": "هندسة دبابات",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 132,
+    "name": "صواريخ ارض",
+    "engineeres": null,
+    "engineeringeDeparId": 21,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 133,
+    "name": "هندسة النظم الالكترونية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 134,
+    "name": "هندسة لاسلكي رادارات",
+    "engineeres": null,
+    "engineeringeDeparId": 20,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 135,
+    "name": "هندسة مركبات",
+    "engineeres": null,
+    "engineeringeDeparId": 21,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 137,
+    "name": "ميكانيك عسكري",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 138,
+    "name": "هندسة كهرباء مركبات",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 139,
+    "name": "هندسة تقانة المعلومات",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 140,
+    "name": "هندسة تكنولوجيا الاتصالات",
+    "engineeres": null,
+    "engineeringeDeparId": 22,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 141,
+    "name": "كهرباء عسكرية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 142,
+    "name": "هندسة عربات",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 143,
+    "name": "هندسة تسليح جوي",
+    "engineeres": null,
+    "engineeringeDeparId": 20,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 144,
+    "name": "هندسة اشارة",
+    "engineeres": null,
+    "engineeringeDeparId": 20,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 145,
+    "name": "هندسة ادارة وتشييد",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 146,
+    "name": "هندسة تكنولوجيا المركبات",
+    "engineeres": null,
+    "engineeringeDeparId": 21,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 147,
+    "name": "هندسة تجهيزات جوية",
+    "engineeres": null,
+    "engineeringeDeparId": 20,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 149,
+    "name": "هندسة دفاع جوي",
+    "engineeres": null,
+    "engineeringeDeparId": 20,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 150,
+    "name": "هندسة تكنولوجيا المعلومات",
+    "engineeres": null,
+    "engineeringeDeparId": 25,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 151,
+    "name": "هندسة ذكاء صناعي",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 152,
+    "name": "هندسة كهروميكانيكية",
+    "engineeres": null,
+    "engineeringeDeparId": 20,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 153,
+    "name": "هندسة كهروبصريات",
+    "engineeres": null,
+    "engineeringeDeparId": 20,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 154,
+    "name": "هندسة ادارة و انشاء",
+    "engineeres": null,
+    "engineeringeDeparId": 1,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 155,
+    "name": "وسائط لاسلكية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 156,
+    "name": "هندسة تسليح ميداني",
+    "engineeres": null,
+    "engineeringeDeparId": 20,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 157,
+    "name": "هندسة تجهيزات مراقبة",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 158,
+    "name": "هندسة ميكانيك بحرية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 159,
+    "name": "هندسة المكننة الزراعية",
+    "engineeres": null,
+    "engineeringeDeparId": 16,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 160,
+    "name": "هندسة طاقات متجددة",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 161,
+    "name": "هندسة توجيه جوي",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 162,
+    "name": "هندسة نظم المعلومات الادارية",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 163,
+    "name": "هندسة صيانة معدات طيران",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 164,
+    "name": "هندسة نظم ذكية",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 165,
+    "name": "هندسة السكك الحديدية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 166,
+    "name": "نقل وتخزين الغاز",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 167,
+    "name": "آلات وقيادة كهربائية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 168,
+    "name": "استثمار الغاز",
+    "engineeres": null,
+    "engineeringeDeparId": 7,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 169,
+    "name": "الإدارة الهندسية",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 170,
+    "name": "الكومبيوتر",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 171,
+    "name": "تكنولوجيا الأغذية",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 172,
+    "name": "اليات زراعية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 173,
+    "name": "الأتمتة الصناعية",
+    "engineeres": null,
+    "engineeringeDeparId": 9,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 174,
+    "name": "حاسب آلي",
+    "engineeres": null,
+    "engineeringeDeparId": 15,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 175,
+    "name": "تخطيط مدن",
+    "engineeres": null,
+    "engineeringeDeparId": 3,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 176,
+    "name": "ميكانيك صناعي",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 178,
+    "name": "علم المواد الهندسية (تعدين)",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 179,
+    "name": "التزويد الكهربائي والتجهيز في النقل",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 180,
+    "name": "ادارةاعمال",
+    "engineeres": null,
+    "engineeringeDeparId": 10,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 181,
+    "name": "وسائط لاسلكية فنية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 182,
+    "name": "طاقة شمسية / قوى/",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 183,
+    "name": "قوى ميكانيكية",
+    "engineeres": null,
+    "engineeringeDeparId": 5,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 184,
+    "name": "هندسة الكترون و اتصالات",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 185,
+    "name": "الطاقة الكهربائية",
+    "engineeres": null,
+    "engineeringeDeparId": 2,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 186,
+    "name": "ادارة و تنظيم  المشروعات الاقتصادية",
+    "engineeres": null,
+    "engineeringeDeparId": 10,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 187,
+    "name": "الهندسة التقانات الحيوية",
+    "engineeres": null,
+    "engineeringeDeparId": 16,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 188,
+    "name": "الهندسة تكنولوجيا المواد الصلبة",
+    "engineeres": null,
+    "engineeringeDeparId": 6,
+    "engineeringeDepar": null
+  },
+  {
+    "id": 189,
+    "name": "هندسة الصناعات الكيميائية ",
+    "engineeres": null,
+    "engineeringeDeparId": 6,
+    "engineeringeDepar": null
+  }
+]

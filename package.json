@@ -1,0 +1,75 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@hookform/resolvers": "^3.9.1",
+    "@mui/material": "^5.15.18",
+    "@reduxjs/toolkit": "^2.2.4",
+    "@tanstack/react-query": "^5.52.2",
+    "@tanstack/react-query-devtools": "^5.52.2",
+    "@testing-library/user-event": "^13.5.0",
+    "antd": "^5.17.4",
+    "axios": "^1.6.8",
+    "chart.js": "^4.4.2",
+    "crypto-js": "^4.2.0",
+    "date-fns": "^3.6.0",
+    "file-url": "^4.0.0",
+    "i18next": "^23.11.3",
+    "i18next-http-backend": "^2.5.1",
+    "lodash.debounce": "^4.0.8",
+    "moment": "^2.30.1",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-datepicker": "^7.2.0",
+    "react-dom": "^18.3.1",
+    "react-highlight-words": "^0.20.0",
+    "react-hook-form": "^7.53.2",
+    "react-i18next": "^14.1.1",
+    "react-icons": "^5.2.0",
+    "react-query": "^3.39.3",
+    "react-redux": "^9.1.2",
+    "react-router-dom": "^6.23.0",
+    "react-scripts": "5.0.1",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0",
+    "sass": "^1.76.0",
+    "socket.io-client": "^4.7.5",
+    "uuid": "^11.0.3",
+    "web-vitals": "^2.1.4",
+    "zod": "^3.23.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.0.1",
+    "jest": "^27.5.1",
+    "tailwindcss": "^3.4.3"
+  }
+}
